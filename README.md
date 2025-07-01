@@ -17,6 +17,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/88028b4f-fc4b-4359-bdf5-9825e5f94113/deploy-status)](https://personal-portfolio-fcc-jiro.netlify.app/)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-personal-portfolio&left_text=repo%20views)
 
 ## ℹ️ Personal Portfolio Website
 
